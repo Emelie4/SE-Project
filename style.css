@@ -91,3 +91,14 @@ body {
   display: block;
   width: 200px;
 }
+
+a {
+    text-decoration: none;
+}
+a:link, a:visited {
+    color: black;
+}
+a:hover {
+    color: #FA815C;
+}
+
