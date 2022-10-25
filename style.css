@@ -6,6 +6,11 @@ html, body {
 .topnav {
   overflow: hidden;
   background-color: #9AECFE;
+  font-size: 70px;
+  font-weight: 600;
+  background-image: radial-gradient(circle, #0e5200, #bdbdbd);
+  color: transparent;
+  background-clip: text;
 }
 
 /* Style the links inside the navigation bar */
@@ -56,7 +61,7 @@ html, body {
 }
 
 body {
-    background-color:hsl(70, 72%, 64%);
+    background-color:hsl(0, 0%, 93%);
   }
 
 #container {
