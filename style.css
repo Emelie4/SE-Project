@@ -3,12 +3,20 @@ html, body {
   width: 100%;
 }
 
+p {
+  margin: 0px 200px 20px 200px;
+}
+h1 {
+  margin: 20px 100px 10px 100px;
+}
+
 .topnav {
   overflow: hidden;
   background-color: #9AECFE;
   font-size: 70px;
   font-weight: 600;
   background-image: radial-gradient(circle, #0e5200, #bdbdbd);
+  padding: 10px;
   color: transparent;
   background-clip: text;
 }
@@ -26,13 +34,13 @@ html, body {
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #2196F3;
-  color: white;
+  background-color: #ffffff;
+  color: black;
 }
 
 .topnav a.active {
-  background-color: #2196F3;
-  color: white;
+  background-color: #ffffff;
+  color: darkgreen;
 }
 
 /* Style the search box inside the navigation bar */
@@ -106,4 +114,58 @@ a:link, a:visited {
 a:hover {
     color: #FA815C;
 }
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+
+.button1 {
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50;
+  
+}
+
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.button2 {
+  background-color: white;
+  color: black;
+  border: 2px solid #008CBA;
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
+</style>
+</head>
+<body>
+
+<button class="button button1">Green</button>
+<button class="button button2">Blue</button>
+
+</body>
+</html>
+
+
 
