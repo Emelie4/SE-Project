@@ -9,6 +9,12 @@ h1 {
   
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .topnav {
   overflow: hidden;
   background-color: #9AECFE;
