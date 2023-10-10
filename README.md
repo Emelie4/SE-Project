@@ -1,3 +1,3 @@
 # SE-Project
 
-The link to the website : https://63572b6fce2cb1502a7ddd4e--eloquent-muffin-9fd5b0.netlify.app/index.html
+The link to the website : https://637c29f3357b78000929cf31--eloquent-muffin-9fd5b0.netlify.app/learn
