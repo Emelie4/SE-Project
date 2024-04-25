@@ -1,6 +1,8 @@
 # SE-Project
 
 **Our Vision**
+
+
 The After Initiative is a foundation created by four computer science students with the intention to discover how the availability of Texas financial and educational resources for higher education will impact low-income Texas high school graduates seeking to attend college as a computer science major by 2030. We have developed a website that provides information on FAFSA, scholarships, and other learning resources. We aim to improve the college readiness, both financially and academically, for Texas high school graduates intending to enroll in a Texas public university to major in computer science.
 
 
@@ -28,6 +30,8 @@ In light of this, The After Initiative focuses on:
 
 
 **Research Sources**
+
+
 Hutchins, BC, Arshavsky, N, Edmunds, JA. Why some early college high school students do not transition to a 4-year college: An exploration of perceived barriers and schooling experiences on students’ transition plans. Psychol Schs. 2019; 56: 1117– 1138. https://doi-org.libweb.lib.utsa.edu/10.1002/pits.22257
 
 Cunha, J. M., Miller, T., & Weisburst, E. (2018). Information and College Decisions: Evidence From the Texas GO Center Project. Educational Evaluation and Policy Analysis, 40(1), 151–170. https://doi-org.libweb.lib.utsa.edu/10.3102/0162373717739349
